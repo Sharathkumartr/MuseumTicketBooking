@@ -177,7 +177,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For questions or feedback, feel free to reach out:
 
 - **Email**: [sharathkumartr2001@gmail.com](mailto:sharathkumartr2001@gmail.com)
-- **GitHub**: [@vijaykmr18](https://github.com/Sharathkumartr)
+- **GitHub**: [@Sharathkumartr](https://github.com/Sharathkumartr)
 - **LinkedIn**: [SharathKumar](https://www.linkedin.com/in/sharathkumar22/)
 
 ---

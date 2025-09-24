@@ -42,9 +42,8 @@ Welcome to the **Museum Ticket Booking Platform**, a modern and user-friendly sy
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vijaykmr18/museum-ticket-booking.git
-cd museum-ticket-booking
-```
+git clone https://github.com/Sharathkumartr/MuseumTicketBooking.git
+cd MuseumTicketBooking
 
 #### 2. Install Dependencies
 
@@ -177,9 +176,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: [guggarivijay016@gmail.com](mailto:guggarivijay016@gmail.com)
-- **GitHub**: [@vijaykmr18](https://github.com/vijaykmr18)
-- **LinkedIn**: [vijay-guggari](https://www.linkedin.com/in/vijay-guggari)
+- **Email**: [sharathkumartr2001@gmail.com](mailto:sharathkumartr2001@gmail.com)
+- **GitHub**: [@vijaykmr18](https://github.com/Sharathkumartr)
+- **LinkedIn**: [SharathKumar](https://www.linkedin.com/in/sharathkumar22/)
 
 ---
 
